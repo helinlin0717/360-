@@ -1,0 +1,108 @@
+@charset "gb2312";
+*{
+padding:0;
+margin:0;
+list-style:none;
+}
+a{
+text-decoration:none;
+color:#5C5C5C;
+font-size:14px;
+}
+.left{
+float:left;
+}
+.right{
+float:right;
+}
+.clear{
+clear:both;
+}
+body{
+font-size:12px;
+color:#5C5C5C;
+font-family:"ËÎÌו",sans-serif;
+}
+#content{
+border-top:1px solid #E0E0E0;
+padding-bottom:70px;
+}
+#content>#content-header{
+height:116px;
+width:994px;
+border-bottom:1px solid #E0E0E0;
+margin:0 auto;
+}
+#content>#content-header>#content-header-logo{
+width:160px;
+height:40px;
+background:url("../image/image_3.png") 0 -391px no-repeat;
+margin-top:38px;
+}
+#content>.content-problem{
+width:994px;
+height:1100px;
+margin:0 auto;
+}
+#content>.content-problem>.problem{
+width:954px;
+border-bottom:1px solid #E0E0E0;
+float:right;
+padding-bottom:30px;
+}
+#content>.content-problem>.problem>.problem-quetion{
+padding-top:24px;
+display:flex;
+flex-direction:row;
+}
+#content>.content-problem>.problem>.problem-quetion>.problem-quetion-logo{
+height:27px;
+width:20px;
+background:url("../image/image_3.png") -346px 0 no-repeat;
+display:inline-block;
+}
+#content>.content-problem>.problem>.problem-quetion>p{
+display:inline-block;
+margin-left:15px;
+padding-top: 3px;
+font-size:16px;
+color:#333333;
+font-weight:bold;
+}
+#content>.content-problem>.problem>.problem-request{
+padding-top:13px;
+display:flex;
+flex-direction:row;
+}
+#content>.content-problem>.problem>.problem-request>.problem-request-logo{
+height:27px;
+width:20px;
+background:url("../image/image_3.png") -346px -37px; no-repeat;
+display:inline-block;
+}
+#content>.content-problem>.problem>.problem-request>p{
+width:900px;
+display:inline-block;
+margin-left:15px;
+color:#666666;
+font-size:14px;
+line-height:25px;
+}
+#content>.content-problem>.problem>.problem-request>p>a{
+color:#F05156;
+text-decoration:underline;
+}
+#content>#content-footer{
+text-align:center;
+padding-top:35px;
+}
+#content>#content-footer>p{
+color:#A0A0A0;
+font-size:15px;
+font-weight:bold;
+}
+#content>#content-footer>p>a{
+color:#F05156;
+text-decoration:underline;
+font-size:15px;
+}

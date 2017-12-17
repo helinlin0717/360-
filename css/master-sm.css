@@ -1,0 +1,147 @@
+@charset "gb2312";
+*{
+padding:0;
+margin:0;
+list-style:none;
+}
+a{
+text-decoration:none;
+color:#5C5C5C;
+font-size:14px;
+}
+.left{
+float:left;
+}
+.right{
+float:right;
+}
+.clear{
+clear:both;
+}
+body{
+font-size:12px;
+color:#5C5C5C;
+font-family:"ËÎÌו",sans-serif;
+}
+#content{
+width:994px;
+margin:0 auto;
+}
+#content>#content-header{
+height:120px;
+width:994px;
+border-bottom:1px solid #E0E0E0;
+margin:0 auto;
+}
+#content>#content-header>#content-header-logo{
+width:160px;
+height:50px;
+background:url("../image/image_3.png") -179px -387px no-repeat;
+margin-top:38px;
+}
+#content>#support-model{
+
+}
+#content>#support-model>#support-model-logo>p{
+color:#666666;
+font-size:15px;
+font-weight:bold;
+margin-top: 34px;
+}
+#content>#support-model>#support-model-logo>#sm-logo{
+height:185px;
+margin-top:15px;
+}
+#content>#support-model>#support-model-logo>#sm-logo>ul{
+height:185px;
+width:100%;
+}
+#content>#support-model>#support-model-logo>#sm-logo>ul>li{
+width:174px;
+height:78px;
+margin-right:30px;
+float:left;
+margin-top: 25px;
+}
+#content>#support-model>#support-model-logo>#sm-logo>ul>li>a{
+width:172px;
+height:76px;
+display:block;
+padding:1px;
+border:1px solid #E2E2E2;
+}
+#content>#support-model>#support-model-logo>#sm-logo>ul>li>.apple{
+background:url("../image/image_3.png") 0 0 no-repeat;
+}
+#content>#support-model>#support-model-logo>#sm-logo>ul>li>.samsung{
+background:url("../image/image_3.png") -170px -81px no-repeat;
+}
+#content>#support-model>#support-model-logo>#sm-logo>ul>li>.mi{
+background:url("../image/image_3.png") -170px -307px no-repeat;
+}
+#content>#support-model>#support-model-logo>#sm-logo>ul>li>.lg{
+background:url("../image/image_3.png") 0px -223px no-repeat;
+}
+#content>#support-model>#support-model-logo>#sm-logo>ul>li>.htc{
+background:url("../image/image_3.png") 0px -76px no-repeat;
+}
+#content>#support-model>#support-model-logo>#sm-logo>ul>li>.meizu{
+background:url("../image/image_3.png") 0 -309px no-repeat;
+}
+#content>#support-model>#support-model-logo>#sm-logo>ul>li>.sony{
+background:url("../image/image_3.png") -170px -153px no-repeat;
+}
+#content>#support-model>#support-model-logo>#sm-logo>ul>li>.huawei{
+background:url("../image/image_3.png") 0 -157px no-repeat;
+}
+#content>#support-model>#support-model-logo>#sm-logo>ul>li>.oppo{
+background:url("../image/image_3.png") -170px 0 no-repeat;
+}
+#content>#support-model>#support-model-logo>#sm-logo>ul>li>.lasting{
+background:url("../image/image_3.png") -172px -230px no-repeat;
+}
+#content>#support-model>.phone{
+height:310px;
+margin-top:50px;
+}
+#content>#support-model>#apple>h1{
+color:#666666;
+font-size:35px;
+font-weight:bold;
+}
+#content>#support-model>.phone>table{
+height:248px;
+width:994px;
+border:1px solid #E2E2E2;
+margin-top:18px;
+border-collapse:collapse;
+}
+#content>#support-model>.phone>table>tbody>tr{
+width:100%;
+height:50px;
+border-bottom:1px solid #E2E2E2;
+}
+#content>#support-model>.phone>table>tbody>.table-head{
+background-color:#A8A8A8;
+}
+#content>#support-model>.phone>table>tbody>tr>td{
+font-size:20px;
+padding-left:22px;
+width:50%;
+}
+#content>#support-model>.phone>table>tbody>.table-head>td{
+color:#fff;
+font-weight:bold;
+font-size:22px;
+}
+#content>#support-model>#sm-lasting{
+width:100%;
+height:83px;
+text-align:center;
+padding-top:35px;
+}
+#content>#support-model>#sm-lasting>span{
+color:#A0A0A0;
+font-weight:bold;
+font-size:15px;
+}

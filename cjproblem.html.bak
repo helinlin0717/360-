@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta http-equiv="content-type" content="text/html;charset=gb2312"/>
+  <title>360防丢卫士>常见问题 </title>
+  <link rel="stylesheet" type="text/css" href="css/header.css"/>
+  <link rel="stylesheet" type="text/css" href="css/master-p.css"/>
+  <link rel="stylesheet" type="text/css" href="css/footer.css"/>
+ </head>
+ <script type="text/javascript">
+   function ShowOrHide(id,dp){
+     document.getElementById(id).style.display=dp;
+   }
+ </script>
+ <body>
+   <div id="container">
+     <div id="header">
+	   <div id="tab-nav">
+	     <div id="tab-nav-logo">
+	       <a href="index.html"><img src="image/logo_03.png"/></a>
+		 </div>
+		 <div id="tab-nav-link" class="right">
+		   <ul>
+		     <li><a href="index.html">首页</a></li>
+		     <li><a href="cjproblem.html" class="active">常见文图</a></li>
+		     <li><a href="Support-model.html">支持机型</a></li>
+		     <li><a href="http://weibo.com/u/5085105013">官方微博</a></li>
+		     <li><a href="http://bbs.360.cn/forum-2374-1.html">官方论坛</a></li>
+		   </ul>
+		   <a id="and-dowload" href="javascript:void(0)" onmouseover="ShowOrHide('er-wei-ma','block')" onmouseout="ShowOrHide('er-wei-ma','none')">
+		     <div id="er-wei-ma" class="ewm"></div>
+		   </a>
+		   <a id="apple-dowload" href="javascript:void(0)"></a>
+		 </div>
+	   </div>
+	 </div>
+	 <div id="content">
+	   <div id="content-header">
+	     <div id="content-header-logo" class="left"></div>
+	   </div>
+	   <div class="content-problem">
+	     <div class="problem" id="problem1">
+		   <div class="problem-quetion">
+		     <div class="problem-quetion-logo"></div>
+		     <p>防丢卫士是如何防丢的？</p>
+		   </div>
+		   <div class="problem-request">
+		     <div class="problem-request-logo"></div>
+			 <p>防丢卫士通过蓝牙4.0与手机相连，并通过蓝牙信号强弱判断防丢卫士与手机间的距离。当信号断开时，说明防丢卫士可能离手机比较远了，这时防丢卫士和手机会同时发出报警提示。</p>
+		   </div>
+		 </div>
+		 <div class="problem" id="problem2">
+		   <div class="problem-quetion">
+		     <div class="problem-quetion-logo"></div>
+		     <p>通过蓝牙使用？那是不是要长期打开蓝牙？耗电怎么办？是不是不安全？</p>
+		   </div>
+		   <div class="problem-request">
+		     <div class="problem-request-logo"></div>
+			 <p>使用防丢卫士时需要使蓝牙保持开启状态哦！蓝牙4.0 是非常安全的，与之前的版本相比有效距离更长。而且增加了低功耗模式， 功耗减少 90% 以上，更加省电。</p>
+		   </div>
+		 </div>
+		 <div class="problem" id="problem3">
+		   <div class="problem-quetion">
+		     <div class="problem-quetion-logo"></div>
+		     <p>防丢卫士有多大？怎么用？</p>
+		   </div>
+		   <div class="problem-request">
+		     <div class="problem-request-logo"></div>
+			 <p>防丢卫士仅一元钱硬币般大小，可以轻松悬挂或粘贴在随身物品上，然后配合防丢卫士手机客户端就能使用啦。</p>
+		   </div>
+		 </div>
+		  <div class="problem" id="problem4">
+		   <div class="problem-quetion">
+		      <div class="problem-quetion-logo"></div>
+		     <p>防丢卫士有哪些功能？</p>
+		   </div>
+		   <div class="problem-request">
+		     <div class="problem-request-logo"></div>
+			 <p>防丢卫士主要有“智能提醒”、“一键寻呼”、“位置追踪”等功能。<br/>
+			    "智能提醒"：在防丢卫士和手机断开连接时，手机客户端推送一条警报信息给你；<br/>
+				"一键寻呼"：按下手机客户端里的“寻呼”按钮，可以使防丢卫士发出蜂鸣声，从而听声辩位找到它；<br/>
+				"位置追踪"：防丢卫士会记录和手机断开连接前的位置和时间，为寻物指明方向。
+			 </p>
+		   </div>
+		 </div>
+		  <div class="problem" id="problem5">
+		   <div class="problem-quetion">
+		     <div class="problem-quetion-logo"></div>
+		     <p>外壳是什么材质？ 随身佩戴是否有影响？</p>
+		   </div>
+		   <div class="problem-request">
+		     <div class="problem-request-logo"></div>
+			 <p>防丢卫士是 ABS 安全材质，佩戴不会有影响哦!</p>
+		   </div>
+		 </div>
+		 <div class="problem" id="problem6">
+		   <div class="problem-quetion">
+		     <div class="problem-quetion-logo"></div>
+		     <p>支持哪些手机？对手机系统有没有要求呢？</p>
+		   </div>
+		   <div class="problem-request">
+		     <div class="problem-request-logo"></div>
+			 <p>防丢卫士要求手机硬件支持蓝牙4.0，且系统达到 Android 4.3 以上或 iOS 7.0 以上。目前可满足要求的机型<a href="#">详见这里</a>。</p>
+		   </div>
+		 </div>
+		 <div class="problem" id="problem7">
+		   <div class="problem-quetion">
+		     <div class="problem-quetion-logo"></div>
+		     <p>是装电池还是充电？可以用多久？</p>
+		   </div>
+		   <div class="problem-request">
+		     <div class="problem-request-logo"></div>
+			 <p>防丢卫士是装电池使用的哦，一块纽扣电池可支持防丢卫士使用 3—6 个月之久。</p>
+		   </div>
+		 </div>
+		 <div class="problem" id="problem8">
+		   <div class="problem-quetion">
+		     <div class="problem-quetion-logo"></div>
+		     <p>需要使用的电池是什么型号的？到哪里可以买到？如何更换？</p>
+		   </div>
+		   <div class="problem-request">
+		     <div class="problem-request-logo"></div>
+			 <p>防丢卫士使用的是 CR2016 电池，在大型超市、钟表店及网上都可以买到。 打开防丢卫士后盖即可进行更换。</p>
+		   </div>
+		 </div>
+	   </div>
+	   <div id="content-footer">
+	     <p>如果这些仍然无法解决您的问题，您可以去<a href="#">官方论坛</a>发帖，谢谢！</p>
+	   </div>
+	 </div>
+	 <div id="footer">
+	   <div id="info">
+	     <div class="info-notice">
+		   <h2>关注我们</h2>
+		   <ul>
+		     <li><a href="#">官方微博</a></li>
+			 <li><a href="#">关注我们</a></li>
+		   </ul>
+		 </div>
+		 <div class="info-notice">
+		   <h2>相关网站</h2>
+		   <ul>
+		     <li><a href="#">360硬件专区</a></li>
+			 <li><a href="#">360安全路由</a></li>
+			 <li><a href="#">360儿童卫士</a></li>
+		   </ul>
+		 </div>
+		 <div class="s-ewm">
+		   <div class="s-ewm-img"><img src="image/erweima-1.gif"/></div>
+		   <span>扫一扫<br/>关注官方微博</span>
+		 </div>
+		 <div class="s-ewm">
+		   <div class="s-ewm-img"><img src="image/erweima-2.gif"/></div>
+		   <span>扫一扫<br/>关注官方微信</span>
+		 </div>
+	   </div>
+	   <div id="info-copy">
+		   <p>copy&copy;2005-2014 360.cn All Rights Reserved 360安全中心</p>
+		 </div>
+	 </div>
+	 </div>
+   </div>
+ </body>
+</html>
